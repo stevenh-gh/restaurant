@@ -1,0 +1,30 @@
+{
+    "name": "restaurant",
+    "version": "1.0.0",
+    "description": "the odin project restaurant page",
+    "main": "index.js",
+    "scripts": {
+        "watch": "webpack --watch --mode=development",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/stevenh-gh/restaurant.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/stevenh-gh/restaurant/issues"
+    },
+    "homepage": "https://github.com/stevenh-gh/restaurant#readme",
+    "devDependencies": {
+        "css-loader": "^6.2.0",
+        "postcss": "^8.3.6",
+        "postcss-loader": "^6.1.1",
+        "style-loader": "^3.2.1",
+        "tailwindcss": "^2.2.15",
+        "webpack": "^5.52.1",
+        "webpack-cli": "^4.8.0"
+    }
+}
