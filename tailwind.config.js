@@ -1,11 +1,15 @@
 module.exports = {
-  purge: [],
-  darkMode: false, // or 'media' or 'class'
-  theme: {
-    extend: {},
-  },
-  variants: {
-    extend: {},
-  },
-  plugins: [],
+    purge: [],
+    darkMode: false, // or 'media' or 'class'
+    theme: {
+        extend: {
+            backgroundImage: {
+                "food": "url('/resources/food.png')"
+            }
+        },
+    },
+    variants: {
+        extend: {},
+    },
+    plugins: [],
 }
