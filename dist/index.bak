@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script defer src="bundle.js"></script>
+    <title>Restaurant page</title>
+</head>
+
+<body>
+    <div id="content">
+        <!-- <nav class="capitalize flex justify-around bg-blue-200 rounded-md">
+        <div class="p-4 text-xl hover:bg-blue-300 transform hover:scale-110">home</div>
+        <div class="p-4 text-xl hover:bg-blue-300 transform hover:scale-110">menu</div>
+        <div class="p-4 text-xl hover:bg-blue-300 transform hover:scale-110">contact</div>
+        </nav>
+
+        <main class="bg-food h-full bg-no-repeat bg-cover">
+            <div class="grid grid-cols-12 gap-x-5">
+                <h1 class="mt-5 col-start-3 col-span-8 text-center text-8xl capitalize font-serif border-double border-4 border-black">steve's deli & takeout</h1>
+            </div>
+
+
+            <div class="grid grid-cols-12 gap-x-5"> -->
+        <!-- home content -->
+        <!-- <div class="mt-14 text-center text-2xl border-black border-double border-4 col-start-4 col-span-6 bg-blue-300 bg-opacity-40">
+                    Weclome to Steve's Deli & Takeout! We offer a wide variety of deli sandwiches and stir-fry meals for takeout. Family business since the 1850's!
+                </div>
+
+                <div class="mt-5 text-center text-2xl border-black border-double border-4 col-start-4 col-span-6 bg-blue-300 bg-opacity-40">
+                    <p class="capitalize text-3xl">hours open</p>
+                    <table class="mt-2 text-left capitalize mx-auto">
+                        <tr>
+                            <td>sunday:</td>
+                            <td>closed</td>
+                        </tr>
+                        <tr>
+                            <td>monday:</td>
+                            <td class=" uppercase">9am-7pm</td>
+                        </tr>
+                        <tr>
+                            <td>tuesday:</td>
+                            <td class=" uppercase">9am-7pm</td>
+                        </tr>
+                        <tr>
+                            <td>wednesday:</td>
+                            <td class=" uppercase">9am-7pm</td>
+                        </tr>
+                        <tr>
+                            <td>thursday:</td>
+                            <td class=" uppercase">9am-7pm</td>
+                        </tr>
+                        <tr>
+                            <td>friday:</td>
+                            <td class=" uppercase">9am-7pm</td>
+                        </tr>
+                        <tr>
+                            <td>saturday:</td>
+                            <td class=" uppercase">9am-7pm</td>
+                        </tr>
+                    </table>
+                </div>
+
+                <div class="mt-5 text-center text-2xl border-black border-double border-4 col-start-4 col-span-6 bg-blue-300 bg-opacity-40">
+                    <p class=" text-3xl">Location</p>
+                    <p>Somewhere in a food show that takes place on some country...</p>
+                </div> -->
+        <!-- home content -->
+
+        <!-- menu content -->
+        <!-- <div class="mt-14 text-center text-2xl border-black border-double border-4 col-start-4 col-span-6 bg-blue-300 bg-opacity-40">
+                    <p class=" text-3xl">Menu</p>
+                    <div class="flex">
+                        <div class=" flex-1 text-center">
+                            Deli sandwiches
+                            <ul class=" underline ">
+                                <li>ham sandwich</li>
+                                <li>turkey sandwich</li>
+                                <li>beef sandwich</li>
+                            </ul>
+                        </div>
+                        <div class="flex-1 text-center">
+                            Stir-fry
+                            <ul class=" underline">
+                                <li>fried rice</li>
+                                <li>stir fry noodles</li>
+                                <li>stir fry broccoli with sauce</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div> -->
+        <!-- menu content -->
+
+        <!-- contact content -->
+        <!-- <div class="mt-14 text-center text-2xl border-black border-double border-4 col-start-4 col-span-6 bg-blue-300 bg-opacity-40">
+                    <p class=" text-3xl">Contact</p>
+                    <p>We are available during open hours, so call or email to make an order for pickup!</p>
+                    <p>Phone: 202-555-0719</p>
+                    <p>Email: steve@delitakeout.com</p>
+                </div> -->
+        <!-- contact content -->
+        <!-- </div>
+        </main> -->
+    </div>
+</body>
+
+</html>
