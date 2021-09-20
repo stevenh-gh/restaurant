@@ -20,5 +20,10 @@ module.exports = {
                 "postcss-loader"
             ]
         }]
+    },
+
+    devServer: {
+        static: path.resolve(__dirname, "dist"),
+        open: true
     }
 }
