@@ -12,8 +12,11 @@ export default function pageLoad() {
     const classes = "p-4 text-xl hover:bg-blue-300 transform hover:scale-110";
 
     home.innerText = "home";
+    home.id = "home";
     menu.innerText = "menu";
+    menu.id = "menu";
     contact.innerText = "contact";
+    contact.id = "contact";
     home.classList = classes;
     menu.classList = classes;
     contact.classList = classes;
