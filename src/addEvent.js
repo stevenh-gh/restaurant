@@ -1,4 +1,5 @@
 import welcome from "./welcome.js";
+import homecontent from "./home.js";
 
 export default function addEventListener() {
     const home = document.querySelector("#home");
@@ -10,6 +11,7 @@ export default function addEventListener() {
         info.innerHTML = "";
 
         welcome(info);
+        homecontent(info);
     });
 
     menu.addEventListener("click", () => {
