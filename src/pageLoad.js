@@ -1,6 +1,6 @@
 export default function pageLoad() {
     const content = document.getElementById("content");
-    content.classList.add("container", "m-auto");
+    content.classList.add("container", "m-auto", "h-screen");
 
     // navbar
     const nav = document.createElement("nav");
