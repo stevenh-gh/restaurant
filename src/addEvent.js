@@ -1,3 +1,5 @@
+import welcome from "./welcome.js";
+
 export default function addEventListener() {
     const home = document.querySelector("#home");
     const menu = document.querySelector("#menu");
@@ -7,13 +9,16 @@ export default function addEventListener() {
     home.addEventListener("click", () => {
         info.innerHTML = "";
 
+        welcome(info);
     });
 
     menu.addEventListener("click", () => {
         info.innerHTML = "";
+        welcome(info);
     });
 
     contact.addEventListener("click", () => {
         info.innerHTML = "";
+        welcome(info);
     });
 }
