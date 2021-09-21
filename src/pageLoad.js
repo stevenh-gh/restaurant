@@ -1,3 +1,5 @@
+import footer from "./footer.js";
+
 export default function pageLoad() {
     const content = document.getElementById("content");
     content.classList.add("container", "m-auto", "h-screen");
@@ -66,4 +68,6 @@ export default function pageLoad() {
     info.appendChild(location);
     main.appendChild(info);
 
+    //add footer
+    footer(content);
 }
